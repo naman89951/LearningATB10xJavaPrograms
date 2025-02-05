@@ -6,7 +6,6 @@ public class EvenNumbers {
 //            if(i%2==0){
 //                System.out.println(i);
 //            }
-//
 //        }
         int i=1;
         while(i<20){

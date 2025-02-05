@@ -7,6 +7,7 @@ public class SumOfNaturalNumber {
 //            sum = sum + i;
 //        }
 //            System.out.println("Sum of First 10 Natural Numbers = "+sum);
+
         int i=1;
         int sum=0;
         while(i<=10){

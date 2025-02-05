@@ -7,6 +7,7 @@ public class MultiplicationTable {
 //            result = 5 * i;
 //            System.out.println(result);
 //        }
+
         int i = 1;
         while(i<=10){
             result = 7 * i;
